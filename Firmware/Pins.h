@@ -6,7 +6,7 @@ Produced automatically by Circuito Ltd
 MicroController - Arduino pro micro 5V/16MHz
 Peripherals:
 	inputs:
-		PIR
+		ADXL345
 	outputs:
 		Servo
 */
