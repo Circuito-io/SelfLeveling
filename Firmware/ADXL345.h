@@ -1,5 +1,5 @@
-#ifndef RGBLED_H
-#define RGBLED_H
+#ifndef ADXL345_H
+#define ADXL345_H
 
 #include "arduino.h"
 #include <SPI.h>
@@ -27,4 +27,4 @@ class ADXL345
 
 
 };
-#endif //__RGBLED_H
+#ADXL345_H //ADXL345_H

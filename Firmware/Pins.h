@@ -1,9 +1,7 @@
 /*
 PIN OUT header file
 
-Produced automatically by Circuito Ltd
-
-MicroController - Arduino pro micro 5V/16MHz
+MicroController - Arduino pro mini 5V/16MHz
 Peripherals:
 	inputs:
 		ADXL345
