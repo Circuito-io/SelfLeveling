@@ -1,0 +1,24 @@
+
+Self leveling BOM:
+
+Power source:
+    1.5V Power converter:
+        -link: https://www.sparkfun.com/products/12889
+MicroController:
+    1.Arduino Pro Mini 328 - 5V/16MHz: 
+        -link: https://www.sparkfun.com/products/11113
+Components:
+    1.Servo:
+        -link: https://www.sparkfun.com/products/10333
+    2.SparkFun Triple Axis Accelerometer Breakout - ADXL345:
+        -link: https://www.sparkfun.com/products/9836
+        -additional:
+            -Voltage Regulator - 3.3V:
+                -qty: 1
+                -link: https://www.sparkfun.com/products/526
+            -Electrolytic Decoupling Capacitors - 100uF/25V:
+                -qty: 1
+                -link: https://www.sparkfun.com/products/96
+            -Electrolytic Decoupling Capacitors - 10uF/25V:
+                -qty: 1
+                -link: https://www.sparkfun.com/products/523
